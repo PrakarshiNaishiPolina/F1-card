@@ -47,19 +47,4 @@ This webpage features a set of interactive cards showcasing popular Formula 1 dr
 2. Open the `index.html` file in a browser to see the Formula 1 driver cards with hover effects.
 3. Hover over each card to view the additional details about each driver.
 
-## Future Improvements
-
-- **Detailed Driver Profiles**: Adding more detailed information and statistics about each driver.
-- **More Drivers**: Expand the card set to include additional Formula 1 drivers.
-- **Mobile-First Design**: Further enhance the mobile responsiveness and adjust card sizes accordingly.
-
-## Contact
-
-For any questions or feedback, feel free to reach out. Enjoy exploring the world of Formula 1 drivers!
-
----
-
-## License
-
-This project is open-source and free to use. Modify and extend it as needed!
 
